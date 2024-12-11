@@ -1,0 +1,8 @@
+{
+    "project_root": "D:\\3.Project\\VGU\\CS_AGE",
+    "directories": {
+        "source_data": "D:\\3.Project\\VGU\\CS_AGE\\data\\AFAD",
+        "processed_data": "D:\\3.Project\\VGU\\CS_AGE\\face_analysis\\data\\processed\\AFAD",
+        "metadata": "D:\\3.Project\\VGU\\CS_AGE\\face_analysis\\data\\metadata\\AFAD"
+    }
+}
